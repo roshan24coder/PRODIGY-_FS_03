@@ -1,0 +1,440 @@
+[
+  {
+    "name": "Bread",
+    "price": 50,
+    "description": "High-quality bread from local vendors.",
+    "image": "https://images.unsplash.com/photo-1598373182133-52452f7691ef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Milk",
+    "price": 60,
+    "description": "High-quality milk from local vendors.",
+    "image": "https://images.unsplash.com/photo-1523473827533-2a64d0d36748?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Eggs",
+    "price": 70,
+    "description": "High-quality eggs from local vendors.",
+    "image": "https://images.unsplash.com/photo-1498654077810-12c21d4d6dc3?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Rice",
+    "price": 80,
+    "description": "High-quality rice from local vendors.",
+    "image": "https://plus.unsplash.com/premium_photo-1705338026411-00639520a438?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Pulses",
+    "price": 90,
+    "description": "High-quality lentils from local vendors.",
+    "image": "https://images.unsplash.com/photo-1599579085809-4edbc35cee01?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Oil",
+    "price": 100,
+    "description": "High-quality oil from local vendors.",
+    "image": "https://media.istockphoto.com/id/483924118/photo/mustard-oil-cake-with-flower.jpg?s=612x612&w=is&k=20&c=YY4Qfk2fkd3ijRFzaDZkTW9q7layT8HhipqVFD7dIHc="
+  },
+  {
+    "name": "Honey",
+    "price": 110,
+    "description": "High-quality honey from local vendors.",
+    "image": "https://media.istockphoto.com/id/598241944/photo/honey-in-jar-and-bunch-of-dry-lavender.jpg?s=1024x1024&w=is&k=20&c=EbWTXvqo7IgB9lQyQSwGvQ2QAzq0JJ1hsxPQIYJ32uo="
+  },
+  {
+    "name": "Butter",
+    "price": 120,
+    "description": "High-quality peanut butter from local vendors.",
+    "image": "https://media.istockphoto.com/id/1338222224/photo/butter-blocks-and-pieces-on-wooden-table-copy-space.jpg?s=612x612&w=is&k=20&c=oAS5c1Z6eHTGW1yzY3YSPRu-BI4LUxSrafB87CYI_mY="
+  },
+  {
+    "name": "Oats",
+    "price": 130,
+    "description": "High-quality oats from local vendors.",
+    "image": "https://media.istockphoto.com/id/500356812/photo/oats-and-milk.jpg?s=612x612&w=is&k=20&c=y2Yn2MDpEMdZkZ1QmQj6oA0VextOGw_ewGodrrD18J0="
+  },
+  {
+    "name": "Cornflakes",
+    "price": 140,
+    "description": "High-quality cornflakes from local vendors.",
+    "image": "https://media.istockphoto.com/id/515167475/photo/corn-flakes-with-milk-breakfast.jpg?s=1024x1024&w=is&k=20&c=_EeZidt-tB2DfkUp95y29_QWUHzbcJkQg1zEdGBgBL4="
+  },
+  {
+    "name": "Ch0colate",
+    "price": 150,
+    "description": "High-quality dark chocolate from local vendors.",
+    "image": "https://media.istockphoto.com/id/1400452697/photo/dark-chocolate-bar-with-cocoa-beans.jpg?s=612x612&w=is&k=20&c=N4kJQcQeJJpncjdeyx1HMV68gYoJdofv-uodgVHlDj4="
+  },
+  {
+    "name": "Chips",
+    "price": 160,
+    "description": "High-quality chips from local vendors.",
+    "image": "https://media.istockphoto.com/id/1383475280/photo/potato-chips-in-bowl-isolated-on-white-background.jpg?s=612x612&w=is&k=20&c=4O5cujaJ3bX4Sd6HDgOeRnANFyXBKADleRneaiojs28="
+  },
+  {
+    "name": "Almonds",
+    "price": 170,
+    "description": "High-quality almonds from local vendors.",
+    "image": "https://media.istockphoto.com/id/1153088551/photo/almond-backgrounds-nut-food-textured-harvesting.jpg?s=612x612&w=is&k=20&c=ZMoqUCtpY-GWTjBCeHaB-qOHa_fxsUcff7IRs0qughs="
+  },
+  {
+    "name": "Cashews",
+    "price": 180,
+    "description": "High-quality cashews from local vendors.",
+    "image": "https://media.istockphoto.com/id/1396592681/photo/cashew-nut-on-palm-of-hand-close-up.jpg?s=612x612&w=is&k=20&c=znqfPT_ngpNAzxw1wu6lSiaOACRSKUYv4KWHzGtyrB4="
+  },
+  {
+    "name": "Green Tea",
+    "price": 190,
+    "description": "High-quality green tea from local vendors.",
+    "image": "https://media.istockphoto.com/id/177359414/photo/tea-cup.jpg?s=612x612&w=0&k=20&c=cnI-DNtTK8xOW6RB9cLWy04QXzUDoMl71GwKkS4Brbo="
+  },
+  {
+    "name": "Coffee",
+    "price": 200,
+    "description": "High-quality coffee from local vendors.",
+    "image": "https://media.istockphoto.com/id/1467739359/photo/cup-of-coffee-with-smoke-and-coffee-beans-on-old-wooden-background.jpg?s=612x612&w=is&k=20&c=YryesNDvt8ACMopV3huHSME57kdJoczYwSMWol_271E="
+  },
+  {
+    "name": "Ketchup",
+    "price": 210,
+    "description": "High-quality ketchup from local vendors.",
+    "image": "https://media.istockphoto.com/id/1428448492/photo/tomato-ketchup-in-hands-woman.jpg?s=612x612&w=is&k=20&c=r4-yEvsdAnKgcQ_4P7DdprmQpvsbphMgK0pnMdi0xQ8="
+  },
+  {
+    "name": "Spaghetti",
+    "price": 220,
+    "description": "High-quality spaghetti from local vendors.",
+    "image": "https://media.istockphoto.com/id/1796387795/photo/collection-of-spaghetti-isolated-on-white-background.jpg?s=612x612&w=is&k=20&c=_91yO9lJAA9nkMccPZc3IISOcImtHxepuhKzPNTj42o="
+  },
+  {
+    "name": "Pasta Sauce",
+    "price": 230,
+    "description": "High-quality pasta sauce from local vendors.",
+    "image": "https://media.istockphoto.com/id/1469243846/photo/homemade-vermouth-penne-pasta.jpg?s=612x612&w=is&k=20&c=wBPwhGW0-gfWV8eq7Dd9obSEZgLDC43xuJhIWVbLORE="
+  },
+  {
+    "name": "Cheese",
+    "price": 240,
+    "description": "High-quality cheese from local vendors.",
+    "image": "https://media.istockphoto.com/id/1127471287/photo/cheese-on-white.jpg?s=612x612&w=is&k=20&c=VHi29E1BWgctnIM6qUD9f19m2-cZjlA4V3TMeqPZPR4="
+  },
+  {
+    "name": "Yogurt",
+    "price": 250,
+    "description": "High-quality yogurt from local vendors.",
+    "image": "https://media.istockphoto.com/id/1395785149/photo/eating-yoghurt-yoghurt-on-the-fork-with-appetizer-on-the-restaurant-table.jpg?s=612x612&w=is&k=20&c=4jCV8NfIW62M6z77rXDEpR8WdDpwa3LdzGa4Zmmi-vg="
+  },
+  {
+    "name": "Peas",
+    "price": 260,
+    "description": "High-quality peas from local vendors.",
+    "image": "https://media.istockphoto.com/id/155431404/photo/green-pea.jpg?s=612x612&w=is&k=20&c=3L7xlk531hkNmf3ztFRHgBYRs_VFn_sHc_WNiSKofWQ="
+  },
+  {
+    "name": "vegetables",
+    "price": 270,
+    "description": "High-quality mixed vegetables from local vendors.",
+    "image": "https://media.istockphoto.com/id/589415708/photo/fresh-fruits-and-vegetables.jpg?s=612x612&w=is&k=20&c=0KUXg_vETkKHFrjtTWrY8EbFW-KVkwjrmAnS43ljqHA="
+  },
+  {
+    "name": "Paneer",
+    "price": 280,
+    "description": "High-quality paneer from local vendors.",
+    "image": "https://media.istockphoto.com/id/1225631291/photo/white-cheese-paneer-cube-food-dairy-product.jpg?s=1024x1024&w=is&k=20&c=LaKXw6WObAnOGieDOI6uEr1EQmJtZtpM6m9bvPkAlfI="
+  },
+  {
+    "name": "Butter",
+    "price": 290,
+    "description": "High-quality butter from local vendors.",
+    "image": "https://media.istockphoto.com/id/1338222224/photo/butter-blocks-and-pieces-on-wooden-table-copy-space.jpg?s=612x612&w=is&k=20&c=oAS5c1Z6eHTGW1yzY3YSPRu-BI4LUxSrafB87CYI_mY="
+  },
+  {
+    "name": "Sugar",
+    "price": 300,
+    "description": "High-quality sugar from local vendors.",
+    "image": "https://media.istockphoto.com/id/1287871932/photo/granulated-white-cane-sugar-in-a-sack-with-a-scoop.jpg?s=612x612&w=is&k=20&c=KQekk2CGC3cAEoHa9O7C5vPFmKujmQjgwMzuAofEqbE="
+  },
+  {
+    "name": "Salt",
+    "price": 310,
+    "description": "High-quality salt from local vendors.",
+    "image": "https://media.istockphoto.com/id/1339981307/photo/close-up-of-a-chef-adding-salt-into-his-recipe.jpg?s=612x612&w=is&k=20&c=p87Nffm-pW9TaXqZA6cG1teyUjLSnD6B65G7yKVrDLk="
+  },
+  {
+    "name": "Pepper",
+    "price": 320,
+    "description": "High-quality pepper from local vendors.",
+    "image": "https://media.istockphoto.com/id/1301622377/photo/ground-black-pepper-in-a-wooden-bowl-and-peppercorns-on-a-white-background-isolated-top-view.jpg?s=612x612&w=is&k=20&c=YuMG9WcPgY8JJBTDWHgAGzMfsu81dWS7rXahu9rzY5w="
+  },
+  {
+    "name": "Turmeric",
+    "price": 330,
+    "description": "High-quality turmeric from local vendors.",
+    "image": "https://images.unsplash.com/photo-1606951444141-e5533feb55be?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Dish Shop",
+    "price": 340,
+    "description": "High-quality dish soap from local vendors.",
+    "image": "https://media.istockphoto.com/id/493761918/photo/dishwashing-routine.jpg?s=612x612&w=is&k=20&c=-ljeGm5oJzsGXXMr-zIoJjiuRsps0u9dlCIAwSJknlQ="
+  },
+  {
+    "name": "Detergent",
+    "price": 350,
+    "description": "High-quality detergent from local vendors.",
+    "image": "https://media.istockphoto.com/id/1413851648/photo/woman-adding-fabric-softener-or-detergent-to-a-washing-machine.jpg?s=612x612&w=is&k=20&c=GgQcsHiopw5hcWpz8QWDUu_U4lpzxWzsOHz7h68FQ_k="
+  },
+  {
+    "name": "Floor Cleaner",
+    "price": 360,
+    "description": "High-quality floor cleaner from local vendors.",
+    "image": "https://media.istockphoto.com/id/654153664/photo/cleaning-service-sponges-chemicals-and-mop.jpg?s=612x612&w=is&k=20&c=-L8WADfVyV7HgiB27Zd0bAAtpKuYQyPyCWm68sq3VE4="
+  },
+  {
+    "name": "Handwash",
+    "price": 370,
+    "description": "High-quality handwash from local vendors.",
+    "image": "https://media.istockphoto.com/id/1359167344/photo/cleaning-washing-hands-using-sanitizer-dispenser-concept-today-people-lifestyle-concept.jpg?s=612x612&w=is&k=20&c=nrdDHzM2Z1uf29_-gqCl5RJq34Fli2iFmafUj5Bxh7s="
+  },
+  {
+    "name": "Shop",
+    "price": 380,
+    "description": "High-quality soap from local vendors.",
+    "image": "https://media.istockphoto.com/id/1212680808/photo/natural-green-soap-and-eucalyptus-leaves-on-a-straw-plate-vertical-format-organic.jpg?s=612x612&w=is&k=20&c=loP2PR24Dcpob0T9pyd9gVziR5O53krDkjT76KHCn9A="
+  },
+  {
+    "name": "Shampoo",
+    "price": 390,
+    "description": "High-quality shampoo from local vendors.",
+    "image": "https://media.istockphoto.com/id/1437530614/photo/woman-pouring-body-care-lotion-from-bottle-into-her-hand-closeup-view-copyspace.jpg?s=612x612&w=is&k=20&c=nLrEYuR60e777wSNGikbjyMUq0cfuwG9cNTmkJa9Jlw="
+  },
+  {
+    "name": "Toothpaste",
+    "price": 400,
+    "description": "High-quality toothpaste from local vendors.",
+    "image": "https://media.istockphoto.com/id/1495342633/photo/young-man-putting-on-toothpaste-to-brush-his-teeth-in-the-bathroom.jpg?s=612x612&w=is&k=20&c=-2EOmXUHyaYNwwf_iMpEbf9vxygLenu1BtcSdVLZn18="
+  },
+  {
+    "name": "Toothbrush",
+    "price": 410,
+    "description": "High-quality toothbrush from local vendors.",
+    "image": "https://media.istockphoto.com/id/153998974/photo/blue-toothbrush-on-a-white-background.jpg?s=612x612&w=is&k=20&c=eah6NSf7tZVUdYBapCMFGH2Wfpc8dGOLTQBEawWNzJw="
+  },
+  {
+    "name": "Napkins",
+    "price": 420,
+    "description": "High-quality napkins from local vendors.",
+    "image": "https://media.istockphoto.com/id/1407243312/photo/paper-napkin-stack-mockup-copy-space-for-your-logo-or-graphic-design.jpg?s=612x612&w=is&k=20&c=CvUZ4F0nJZyJ_AD8ansdYdRtJaipYn1KxfB9I_ImrMw="
+  },
+  {
+    "name": "Foil",
+    "price": 430,
+    "description": "High-quality foil from local vendors.",
+    "image": "https://media.istockphoto.com/id/615714936/photo/silver-foil.jpg?s=612x612&w=is&k=20&c=8l46ebp2_gB4j2tHOi-gBjZ3n6ZTaIR5nEcEI1NwP-Y="
+  },
+  {
+    "name": "Cling Warp",
+    "price": 440,
+    "description": "High-quality cling wrap from local vendors.",
+    "image": "https://media.istockphoto.com/id/513227663/photo/stretch-film.jpg?s=612x612&w=is&k=20&c=-5efRjmWjUHQnikpFM1gXBJYzntBONKgP84KZ8NfkfQ="
+  },
+  {
+    "name": "Garbage Bag",
+    "price": 50,
+    "description": "High-quality garbage bag from local vendors.",
+    "image": "https://media.istockphoto.com/id/173889659/photo/garbage-bag-roll.jpg?s=612x612&w=is&k=20&c=cYow-ey-rBfsp1JQ4MeZOrsIi-VLIloYr-bD3U8ua0s="
+  },
+  {
+    "name": "Led Bulb",
+    "price": 60,
+    "description": "High-quality led bulb from local vendors.",
+    "image": "https://media.istockphoto.com/id/1956711958/photo/cropped-image-of-woman-hands-changing-light-bulb-in-hanging-lamp-at-home.jpg?s=612x612&w=is&k=20&c=20lyBzRBYWcnfMEcvgnk7K-acgIgnYbJCqJXDwc_AyI="
+  },
+  {
+    "name": "Extension cord",
+    "price": 70,
+    "description": "High-quality extension cord from local vendors.",
+    "image": "https://media.istockphoto.com/id/183022621/photo/orange-extension-power-cord.jpg?s=612x612&w=is&k=20&c=u5f0HGiI_tH6io7akkg0V5LLlM-THGAkEUf8pZbbkk8="
+  },
+  {
+    "name": "Batteries",
+    "price": 80,
+    "description": "High-quality batteries from local vendors.",
+    "image": "https://media.istockphoto.com/id/92681989/photo/batterie-isolated-on-white-background.jpg?s=612x612&w=is&k=20&c=b5oADo6k6abs_3aMpZqIYXk4qA_yLTLF_7l0PhXBg18="
+  },
+  {
+    "name": "USB Cable",
+    "price": 90,
+    "description": "High-quality usb cable from local vendors.",
+    "image": "https://media.istockphoto.com/id/1130849917/photo/black-usb-cable-plug-isolated-on-white-background-usb-micro-usb.jpg?s=612x612&w=is&k=20&c=d37SMjOpbRi99p5wu0YjmcJSugYo3mfVKKUQORHVMWM="
+  },
+  {
+    "name": "Pendrive",
+    "price": 100,
+    "description": "High-quality pendrive from local vendors.",
+    "image": "https://media.istockphoto.com/id/172295657/photo/flash-drive-on-white-background.jpg?s=612x612&w=is&k=20&c=9DV-lWF7i0FSEr0kmr3gbb78k6ytAaJ0Yw1whN2U0XY="
+  },
+  {
+    "name": "Mouse",
+    "price": 110,
+    "description": "High-quality mouse from local vendors.",
+    "image": "https://media.istockphoto.com/id/185277608/photo/hand-with-computer-mouse.jpg?s=612x612&w=is&k=20&c=GLnYRW1t2GenTbMgB4q2mr0CybpUHszxA115LK2YjNM="
+  },
+  {
+    "name": "laptop sleeves",
+    "price": 120,
+    "description": "High-quality laptop sleeve from local vendors.",
+    "image": "https://media.istockphoto.com/id/1410603953/photo/textile-tablet-computer-case.jpg?s=612x612&w=is&k=20&c=8s3zL3Z0dHNAvBFcJyjS0ViFFuxvxP0cP0Xvdt53oiQ="
+  },
+  {
+    "name": "tripod",
+    "price": 130,
+    "description": "High-quality tripod from local vendors.",
+    "image": "https://media.istockphoto.com/id/1398767135/vector/tripod-stand-and-monopod-with-smartphone-vertical-horizontal-screen.jpg?s=612x612&w=is&k=20&c=C3HG7unCvNLQgE11BJsdOu4HGaNUdDFas0yPn-tqdLU="
+  },
+  {
+    "name": "Earbuds",
+    "price": 140,
+    "description": "High-quality earbuds from local vendors.",
+    "image": "https://media.istockphoto.com/id/1646426505/photo/in-ear-headphones-black-wireless-earphones-in-ear-with-charging-case-wireless-earbuds-or.jpg?s=612x612&w=is&k=20&c=z6EDxjt91vQ9mC9KU-eo1CM9i7suEszAxGtr1R5yhlQ="
+  },
+  {
+    "name": "HDMI Chord",
+    "price": 150,
+    "description": "High-quality hdmi from local vendors.",
+    "image": "https://media.istockphoto.com/id/1129183799/photo/hdmi-cable-on-white-background.jpg?s=612x612&w=is&k=20&c=j8ZUzyxAIx6HUwEB6qkHB8TXf3A7tO12hDmoPgD9p1o="
+  },
+  {
+    "name": "Cloths",
+    "price": 160,
+    "description": "High-quality cloth from local vendors.",
+    "image": "https://media.istockphoto.com/id/1257563298/photo/fashion-clothes-on-a-rack-in-a-light-background-indoors-place-for-text.jpg?s=1024x1024&w=is&k=20&c=ulMMW62o1jdl6YOIkNMAwe0QWmgHvt7UilGmq_OhrJ8="
+  },
+  {
+    "name": "Clock",
+    "price": 170,
+    "description": "High-quality clock from local vendors.",
+    "image": "https://media.istockphoto.com/id/1439682573/photo/simple-analog-wall-clock-on-white-background.jpg?s=612x612&w=is&k=20&c=phoYULsYbh98SD4F-vQbk304f9lXpgKMRoDD0VwoW34="
+  },
+  {
+    "name": "Candle",
+    "price": 180,
+    "description": "High-quality candle from local vendors.",
+    "image": "https://media.istockphoto.com/id/1287042903/photo/scented-candles-on-white-background.jpg?s=612x612&w=is&k=20&c=ynnLbs7Wk5feGPD6vLx3463MVzY18Q4A55aTDmd8EJM="
+  },
+  {
+    "name": "Plant",
+    "price": 190,
+    "description": "High-quality plant from local vendors.",
+    "image": "https://media.istockphoto.com/id/1454383133/photo/collection-of-beautiful-plants-in-ceramic-pots-isolated-on-white-background-3d-rendering.jpg?s=612x612&w=is&k=20&c=hZRIlIGoLL_RArx1fU1_nXKihdmPa3PdC0p0epSLdKs="
+  },
+  {
+    "name": "Notebook",
+    "price": 200,
+    "description": "High-quality notebook from local vendors.",
+    "image": "https://media.istockphoto.com/id/1356392171/vector/paper-sheets-with-lines-and-squares-for-memo-notebook-or-book-page.jpg?s=612x612&w=is&k=20&c=yn7lkAFTEUPxy6L2UrGsqUGxXpvJb26YQvRXQbDNPLw="
+  },
+  {
+    "name": "Pens",
+    "price": 210,
+    "description": "High-quality pens from local vendors.",
+    "image": "https://media.istockphoto.com/id/183057646/photo/set-of-eight-different-pens.jpg?s=612x612&w=is&k=20&c=8As73LNjeWHMNGhJZQoJPGqUFXWjzMwbJA4rXaj4af0="
+  },
+  {
+    "name": "sticky Notes",
+    "price": 220,
+    "description": "High-quality sticky notes from local vendors.",
+    "image": "https://media.istockphoto.com/id/1494224375/photo/group-of-colorful-sticky-notes-on-white-paper-background.jpg?s=612x612&w=is&k=20&c=SVAgKj0gVZEF0stanZFK-gnUldnzDsvResmzm2s__BE="
+  },
+  {
+    "name": "Tape",
+    "price": 230,
+    "description": "High-quality tape from local vendors.",
+    "image": "https://media.istockphoto.com/id/1303504511/vector/set-of-washi-adhesive-tapes-for-decorations-isolated-on-white-background-scotch-tape-with-a.jpg?s=612x612&w=is&k=20&c=kRGZ-OaDTsSNwf9QW-fOeblOw8uf12qeO54qqJe07mI="
+  },
+  {
+    "name": "Towel",
+    "price": 240,
+    "description": "High-quality towel from local vendors.",
+    "image": "https://media.istockphoto.com/id/1470571194/photo/set-of-folded-and-rolled-towels-on-white-background.jpg?s=612x612&w=is&k=20&c=n6D_edVEJEcH-ouIAqyMd36X2eaYc-G1004l-M7vrPM="
+  },
+  {
+    "name": "Scrubber",
+    "price": 250,
+    "description": "High-quality scrubber from local vendors.",
+    "image": "https://media.istockphoto.com/id/1469384342/photo/mens-hands-holding-new-and-old-double-side-cleaning-scouring-sponge.jpg?s=1024x1024&w=is&k=20&c=OumDQy0CwX7qvE_O7egrgQ2oQKo4ZssxoyNWYghn0Jc="
+  },
+  {
+    "name": "sanitizer",
+    "price": 270,
+    "description": "High-quality umbrella from local vendors.",
+    "image": "https://media.istockphoto.com/id/1217359663/photo/closeup-asian-woman-hand-using-wash-hand-sanitizer-gel-dispenser-automatic-machine.jpg?s=612x612&w=is&k=20&c=LIBUuys1Ni4p5P9aDHklMg-wI5WYi-k7QiOpBWgA_gQ="
+  },
+  {
+    "name": "Bottle",
+    "price": 280,
+    "description": "High-quality bottle from local vendors.",
+    "image": "https://media.istockphoto.com/id/1789083024/photo/white-gray-and-black-thermos-bottles-aluminium-thermos-bottle-on-white-background-3d.jpg?s=612x612&w=is&k=20&c=5W-0-cqQwmzhSY0-3JhfD98k-37RZ_1OmK_xAsMqKJ8="
+  },
+  {
+    "name": "YogaMate",
+    "price": 300,
+    "description": "High-quality rope from local vendors.",
+    "image": "https://media.istockphoto.com/id/1317688319/photo/close-up-of-female-hands-folding-blue-exercise-mat-on-wooden-floor.jpg?s=612x612&w=is&k=20&c=-DDuaTIMTIYDut2jsFrI0R9HwrL6lFZ4Yl62BgxX_Ac="
+  },
+  {
+    "name": "Dumbbells",
+    "price": 310,
+    "description": "High-quality dumbbells from local vendors.",
+    "image": "https://media.istockphoto.com/id/503467544/photo/barbell.jpg?s=612x612&w=is&k=20&c=cqzCIPi8OzaEhuV_wgwrCJtOsouNzH3HBxphI0sGBIw="
+  },
+  {
+    "name": "First Aid",
+    "price": 320,
+    "description": "High-quality first aid from local vendors.",
+    "image": "https://media.istockphoto.com/id/1207070882/photo/first-aid-articles.jpg?s=612x612&w=is&k=20&c=_bXMts9my04Gop19GAGArGMHL-BkFNdx2cNhcQTKTs4="
+  },
+  {
+    "name": "Torch",
+    "price": 330,
+    "description": "High-quality flashlight from local vendors.",
+    "image": "https://media.istockphoto.com/id/2151982405/photo/red-color-flashlight-isolated-on-white-background.jpg?s=612x612&w=is&k=20&c=5yKkCzX4MOA-fj3r4JjrqBYCC-ft7OfdkS1I5mba4IY="
+  },
+  {
+    "name": "Powerbank",
+    "price": 340,
+    "description": "High-quality power bank from local vendors.",
+    "image": "https://media.istockphoto.com/id/1409737619/photo/a-mobile-phone-being-charged-using-a-power-bank-is-on-the-table.jpg?s=612x612&w=is&k=20&c=Te3Vf5aREsx3nc_nZd-F8taW9Pz8FCOsPDi4MV-2Mv4="
+  },
+  {
+    "name": "Smart Plug",
+    "price": 350,
+    "description": "High-quality smart plug from local vendors.",
+    "image": "https://media.istockphoto.com/id/909239654/photo/woman-controlling-smart-plug-using-app-on-mobile-phone.jpg?s=612x612&w=is&k=20&c=QNzhC-C69vy2I6VcV44kVkdsmdejzzxVeMMpT7AzFpU="
+  },
+  {
+    "name": "Quality Wifi",
+    "price": 360,
+    "description": "High-quality wifi from local vendors.",
+    "image": "https://media.istockphoto.com/id/1186955933/photo/sign-of-the-wireless-technology.jpg?s=612x612&w=is&k=20&c=D1OVWsn_kGwRKuurZUtGntcb5uyKF8ryGu6SSr9pxuQ="
+  },
+  {
+    "name": "SD Card",
+    "price": 370,
+    "description": "High-quality sd card from local vendors.",
+    "image": "https://media.istockphoto.com/id/836445948/vector/top-view-sd-memory-card-memory-chip-isolated-on-white.jpg?s=612x612&w=is&k=20&c=NG5_-qteD6K_MdJ6M7Ds0Qm4uqJkY65LN-Uh7gJC2W8="
+  },
+  {
+    "name": "MousePad",
+    "price": 380,
+    "description": "High-quality mousepad from local vendors.",
+    "image": "https://media.istockphoto.com/id/1488581654/photo/blank-and-black-computer-mouse-pad-on-the-desk-at-home-mousepad-mockup-copy-space-for-your.jpg?s=612x612&w=is&k=20&c=-AOnlf9nRMySykw23eFvajs_cfuLb5uZBNkD_UQIMgw="
+  },
+  {
+    "name": "Wire",
+    "price": 390,
+    "description": "High-quality Wire from local vendors.",
+    "image": "https://media.istockphoto.com/id/144349803/photo/cables.jpg?s=612x612&w=is&k=20&c=kw_DVLpiM3sp5vTWifcGp37V5AsSIrc0gIRBQKptsWQ="
+  }
+]
